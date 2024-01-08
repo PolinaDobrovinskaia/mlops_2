@@ -1,0 +1,5 @@
+split:
+  speed: 42
+train:
+  random_seed: 42
+  iterations: 600
